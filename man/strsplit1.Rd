@@ -9,7 +9,7 @@ strsplit1(x, split)
 \arguments{
 \item{x}{String or Vector containing 1 string element}
 
-\item{split}{String specifying what to split on}
+\item{split}{Regex string specifying what to split on}
 }
 \value{
 A character vector
